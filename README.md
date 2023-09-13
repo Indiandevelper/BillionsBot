@@ -1,6 +1,6 @@
 # BillionsBot
 <p align="center">
-  <img src="https://telegra.ph/file/459c9bac605fa9de1207d.jpg">
+  <img src="https://telegra.ph/file/ac999e2ab532391128fca.jpg">
 </p>
 
 
